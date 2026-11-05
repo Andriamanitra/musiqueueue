@@ -2,7 +2,7 @@
 
 musiqueueueueue is a music player GUI tailored unapologetically to *my* personal preferences.
 
-<img width="1068" height="678" alt="screenshot of the graphical user interface" src="https://github.com/user-attachments/assets/c1256a52-9826-4313-8c35-cf3ab4a8c201" />
+<img width="534" height="339" alt="screenshot of the graphical user interface" src="https://github.com/user-attachments/assets/c1256a52-9826-4313-8c35-cf3ab4a8c201" />
 
 
 ## Why?
